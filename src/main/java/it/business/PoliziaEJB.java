@@ -16,5 +16,5 @@ public class PoliziaEJB {
     public PoliziaEJB() {
         // TODO Auto-generated constructor stub
     }
-
+//ciao ciao 
 }
